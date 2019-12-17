@@ -1,0 +1,371 @@
+[ {
+  "baseItem" : {
+    "id" : "_3enuYAxkEeqHLvYGxNtY7A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_03xtYAuzEeq26P3YAbqcUg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_6mxhIA-QEeq7KYv3Usy-dQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_03xtYAuzEeq26P3YAbqcUg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg - factos_urg",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_CAG3cA-XEeq7KYv3Usy-dQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_03xtYAuzEeq26P3YAbqcUg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg - factos_urg",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_NG6DAP32Eeihs5IWs7TBOA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_03xtYAuzEeq26P3YAbqcUg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_W-BZ8Au0Eeq26P3YAbqcUg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_03xtYAuzEeq26P3YAbqcUg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_03xtYAuzEeq26P3YAbqcUg - causa",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_03xtYAuzEeq26P3YAbqcUg - urg_inform_geral",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg - d_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg - d_especialidade",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg - d_genero",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg - d_local",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_6OMREAu2Eeq6bIllZOwnRg - d_proveniencia",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_WBTA8BHHEemXM9cnXFpbSw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_8L_aAP31Eeihs5IWs7TBOA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_RJgLMP31Eeihs5IWs7TBOA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_8L_aAP31Eeihs5IWs7TBOA - dim_causa",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_8L_aAP31Eeihs5IWs7TBOA - dim_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_8L_aAP31Eeihs5IWs7TBOA - dim_especialidade",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_8L_aAP31Eeihs5IWs7TBOA - dim_genero",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_8L_aAP31Eeihs5IWs7TBOA - dim_local",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_8L_aAP31Eeihs5IWs7TBOA - dim_proveniencia",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_8L_aAP31Eeihs5IWs7TBOA - facts_urg",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
